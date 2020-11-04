@@ -1,4 +1,4 @@
-# Coursera_Neural-Networks-and-Deep-Learning
+# Coursera-Neural-Networks-and-Deep-Learning
 This repo contain my assignment notebooks for the Coursera Neural Networks and Deep Learning
 
 All programs have been passed with 100
